@@ -99,19 +99,14 @@ print(objects)
 ## 🖼️ Screenshots  
 Place your screenshots here:
 
-```
-<img width="1919" height="858" alt="image" src="https://github.com/user-attachments/assets/32d112f3-79a0-4df2-b4b2-ab93a5be711b" />
-<img width="747" height="547" alt="image" src="https://github.com/user-attachments/assets/6404e66b-5e40-47c6-84ea-4cf5e807415b" />
-<img width="746" height="392" alt="image" src="https://github.com/user-attachments/assets/e2df3121-a44a-46da-b281-ece5ec9c76ea" />
+![screenshot](https://github.com/user-attachments/assets/32d112f3-79a0-4df2-b4b2-ab93a5be711b)
+![screenshot](https://github.com/user-attachments/assets/6404e66b-5e40-47c6-84ea-4cf5e807415b)
+![screenshot](https://github.com/user-attachments/assets/e2df3121-a44a-46da-b281-ece5ec9c76ea)
 
-```
 
 ---
 
 ## 🌍 Deployment  
 Use HuggingFace Spaces → Gradio → upload repository → done!
 
----
 
-## 📜 License  
-MIT License — free to use and modify.
